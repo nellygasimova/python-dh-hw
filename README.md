@@ -15,7 +15,7 @@
 ## Таблица с домащними заданиями
 --------------------------------------------------------
 
-#|
-|| **N** | **Описание**  | **Ссылка** ||
-|| 0     | Форматирование README.md | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/README.md)  ||
-|#
+**N** | **Описание**  | **Ссылка** 
+---|:---:|---:
+
+ 0| Форматирование README.md | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/README.md) 

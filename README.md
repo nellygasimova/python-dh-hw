@@ -18,3 +18,4 @@
 **N** | **Описание**  | **Ссылка** 
 ---|:---:|---:
  0| Форматирование README.md | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/README.md) 
+ 1| Домашнее задание 1 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW1_Gasimova.ipynb)

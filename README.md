@@ -12,10 +12,10 @@
 
 ![D'où venons-nous ? Que sommes-nous ? Où allons-nous ?](https://preview.ibb.co/gJvgEz/280836.jpg)
 
-## Таблица с домащними заданиями
+## Таблица с домашними заданиями
 --------------------------------------------------------
 
 **N** | **Описание**  | **Ссылка** 
 ---|:---:|---:
  0| Форматирование README.md | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/README.md) 
- 1| Домашнее задание 1 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW1_Gasimova.ipynb)
+ 1| Домашнее задание 1 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW1.ipynb)

@@ -20,3 +20,4 @@
  0| Форматирование README.md | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/README.md) 
  1| Домашнее задание 1 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW1.ipynb)
  2| Домашнее задание 2 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW2.ipynb)
+ 3| Домашнее задание 3 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW3.ipynb)

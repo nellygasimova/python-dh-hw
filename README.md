@@ -21,3 +21,4 @@
  1| Домашнее задание 1 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW1.ipynb)
  2| Домашнее задание 2 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW2.ipynb)
  3| Домашнее задание 3 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW3.ipynb)
+ 4| Домашнее задание 4 | [*Код*](https://github.com/nellygasimova/python-dh-hw/blob/master/HW4.ipynb)
